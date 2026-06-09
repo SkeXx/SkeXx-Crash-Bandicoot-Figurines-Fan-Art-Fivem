@@ -112,6 +112,48 @@ local FIGURINES_CARRY = {
         offset = vec3( 0.0009, 0.0860, -0.1606),
         rot    = vec3(90.0, 0.0, 180.0)
     },
+
+    nina_cortex = {
+        model  = "skexx_nina_cortex",
+        offset = vec3( 0.0011, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
+
+    nitros_oxide = {
+        model  = "skexx_nitros_oxide",
+        offset = vec3(-0.0024, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
+
+    victor = {
+        model  = "victor",
+        offset = vec3(-0.0038, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
+
+    baby_t = {
+        model  = "skexx_baby_t",
+        offset = vec3(-0.0067, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
+
+    evil_crash = {
+        model  = "skexx_evil_crash",
+        offset = vec3( 0.0018, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
+
+    fake_crash = {
+        model  = "skexx_fake_crash",
+        offset = vec3(-0.0007, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
+
+    madame_amberly = {
+        model  = "skexx_madame_amberly",
+        offset = vec3(-0.0002, 0.0860, -0.1606),
+        rot    = vec3(90.0, 0.0, 180.0)
+    },
 }
 
 local HAND_BONE = 57005
